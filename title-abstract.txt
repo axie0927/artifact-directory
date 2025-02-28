@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Finding Ghost Particles: Regression Subgroup
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+This project focuses on the development of machine learning models to analyze time series data from the Majorana Demonstrator experiment, which aims to detect neutrinoless double beta decay and identify Majorana neutrinos. The study explores the extraction and utilization of 13 key parameters from raw waveform data to improve classification accuracy. The project aims to design machine learning models that efficiently discriminate between signal and background events, ultimately contributing to the broader understanding of neutrino physics.
